@@ -1,0 +1,18 @@
+.item-size{
+    display: flex;
+    justify-content: center;
+ /* border: 1px solid red; */
+}
+
+.remove-botton{
+    width: 11rem;
+    margin: 1rem;
+}
+
+.remove-botton:hover{
+    transition-duration: 5s;
+    width: 11rem;
+    margin: 1rem;
+    background-color: red;
+    filter: blur(2.3px);
+}
